@@ -1,6 +1,6 @@
+/* eslint-disable new-cap */
 import { Inter } from "next/font/google";
 import "./globals.css";
-import Landing from "@/components/Landing";
 import Navigation from "@/components/Navigation";
 import Footer from "@/components/Footer";
 
